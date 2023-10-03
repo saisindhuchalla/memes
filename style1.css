@@ -1,0 +1,11 @@
+#div{
+    color: whitesmoke;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 50%;
+    margin: 25%;
+    padding: 10px;
+}
+*{
+    background-color: black;
+}
